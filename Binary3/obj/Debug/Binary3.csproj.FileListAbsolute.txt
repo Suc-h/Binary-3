@@ -1,0 +1,10 @@
+C:\Users\fokus\source\repos\Binary3\Binary3\bin\Debug\Binary3.exe.config
+C:\Users\fokus\source\repos\Binary3\Binary3\bin\Debug\Binary3.exe
+C:\Users\fokus\source\repos\Binary3\Binary3\bin\Debug\Binary3.pdb
+C:\Users\fokus\source\repos\Binary3\Binary3\obj\Debug\Binary3.csproj.AssemblyReference.cache
+C:\Users\fokus\source\repos\Binary3\Binary3\obj\Debug\Binary3.Form1.resources
+C:\Users\fokus\source\repos\Binary3\Binary3\obj\Debug\Binary3.Properties.Resources.resources
+C:\Users\fokus\source\repos\Binary3\Binary3\obj\Debug\Binary3.csproj.GenerateResource.cache
+C:\Users\fokus\source\repos\Binary3\Binary3\obj\Debug\Binary3.csproj.CoreCompileInputs.cache
+C:\Users\fokus\source\repos\Binary3\Binary3\obj\Debug\Binary3.exe
+C:\Users\fokus\source\repos\Binary3\Binary3\obj\Debug\Binary3.pdb
